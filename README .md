@@ -1,7 +1,7 @@
 # AWS VPC Peering Project
 
-**Name:** Dharmesh Damor
-**Batch:** AWS Batch 1
+**Name:** Damor Dharmeshbhai
+**Batch:** Aws Internship Batch 1
 **Project:** EWB Cloud Labs, Project 01: VPC Peering
 **Region:** ap-southeast-2 (Sydney)
 **Completion date:** 29 October 2026
